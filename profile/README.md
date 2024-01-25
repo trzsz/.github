@@ -11,6 +11,9 @@ _扫码时，可备注您的联系方式，也可以匿名。_ **再次感谢以
 <a href="https://github.com/zzlyzq">
   <img src="https://github.com/zzlyzq.png" alt="Jacky" title="Jacky" width="50" height="50">
 </a>
+<a href="https://github.com/zhouJianXXX">
+  <img src="https://github.com/zhouJianXXX.png" alt="zhouJianXXX" title="zhouJianXXX" width="50" height="50">
+</a>
 <a href="https://github.com/pmzgit">
   <img src="https://github.com/pmzgit.png" alt="希声" title="希声" width="50" height="50">
 </a>
