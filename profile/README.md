@@ -68,3 +68,6 @@ _扫码时，可备注您的联系方式，也可以匿名。_ **再次感谢以
 <a href="https://github.com/GeekDuanLian">
   <img src="https://github.com/GeekDuanLian.png" alt="Sakuya" title="Sakuya" width="50" height="50">
 </a>
+<a href="#">
+  <img src="https://trzsz.github.io/images/github.jpg" alt="**宝" title="**宝" width="50" height="50">
+</a>
