@@ -29,8 +29,8 @@ _扫码时，可备注您的联系方式，也可以匿名。_ **再次感谢以
 <a href="#">
   <img src="https://trzsz.github.io/images/github.jpg" alt="*帆" title="*帆" width="50" height="50">
 </a>
-<a href="https://github.com/chenhsueh">
-  <img src="https://github.com/chenhsueh.png" alt="Chen Hsueh" title="Chen Hsueh" width="50" height="50">
+<a href="https://github.com/GeekDuanLian">
+  <img src="https://github.com/GeekDuanLian.png" alt="Sakuya" title="Sakuya" width="50" height="50">
 </a>
 <a href="https://github.com/irexyc">
   <img src="https://github.com/irexyc.png" alt="Chen Xin" title="Chen Xin" width="50" height="50">
@@ -91,4 +91,7 @@ _扫码时，可备注您的联系方式，也可以匿名。_ **再次感谢以
 </a>
 <a href="https://github.com/xc1989xc">
   <img src="https://github.com/xc1989xc.png" alt="xc1989xc" title="xc1989xc" width="50" height="50">
+</a>
+<a href="https://github.com/Muffeter">
+  <img src="https://github.com/Muffeter.png" alt="ZenTeaCC" title="ZenTeaCC" width="50" height="50">
 </a>
