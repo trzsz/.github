@@ -119,3 +119,6 @@ _扫码时，可备注您的联系方式，也可以匿名。_ **再次感谢以
 <a href="#">
   <img src="https://trzsz.github.io/images/github.jpg" alt="*…" title="*…" width="50" height="50">
 </a>
+<a href="https://github.com/KimBioInfoStudio">
+  <img src="https://github.com/KimBioInfoStudio.png" alt="Kim Yann" title="Kim Yann" width="50" height="50">
+</a>
